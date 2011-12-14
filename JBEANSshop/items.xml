@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    
+<item>
+    <name>Cafe</name>
+    <price>18.50</price> 
+</item>
+
+<item>
+    <name>Sugar</name>
+    <price>6.95</price>
+</item>
+
+<item>
+    <name>Water</name>
+    <price>1.29</price>
+</item>
+
+</root>
